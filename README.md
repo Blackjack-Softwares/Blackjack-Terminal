@@ -18,7 +18,6 @@
 - whatismyip
 - USERNAME
 - mf
-- of
 - create
 - title
 - color
