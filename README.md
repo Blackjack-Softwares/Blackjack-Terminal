@@ -20,7 +20,6 @@ Functions:
 - whatismyip ~ Shows your IP address and other information related to it.
 - USERNAME ~ Shows your computer name and username.
 - mf ~ Makes a folder
-- of ~ Opens a folder (in-terminal)
 - create ~ Creates a file with any extension and even prompts you for the contents of the file.
 - title ~ Changes the title of the window.
 - color ~ Changes the color of the window.
