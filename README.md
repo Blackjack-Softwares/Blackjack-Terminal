@@ -15,7 +15,7 @@ Functions:
 - search ~ Search whatever you want on the Internet.
 - url ~ Opens any URL (Must include HTTPS/HTTP Protocol).
 - urlwp ~ Opens any URL (Prompts user automatically for the protocol).
-- games ~ Opens https://blackjacksoftwares.com/ automatically.
+- games ~ Opens https://itch.io/ automatically.
 - code ~ Opens Visual Studio Code unless you don't have it installed on your machine.
 - whatismyip ~ Shows your IP address and other information related to it.
 - USERNAME ~ Shows your computer name and username.
